@@ -5,5 +5,5 @@ Context:
 
 - Basic Commands
 - Common Commands
-- Installation Guide
+- [Installation Guide](Installation.md)
  
