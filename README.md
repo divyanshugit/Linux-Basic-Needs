@@ -1,4 +1,5 @@
 # Linux-Basic-Needs
+![](logo.png)
 
 Context:
 ---
