@@ -33,3 +33,7 @@ Packages:
 **Virtualenv:**
 
 	pip install virtualenv
+	**We can create virtual environment using:**
+		`virtualenv venv`  Here, `(venv)` is the name of virtual environment.
+		`python3 -m venv my_env` Here venv is the trigger to create virtual environment and my_env is the name of virtual environment
+	
